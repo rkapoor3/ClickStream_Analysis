@@ -1,2 +1,1 @@
-# ClickStream_Analysis
-Click log Analysis and Visualization using Python
+# Click log Analysis and Visualization using Python
